@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiCarteraApp</string>
+    <string name="btnIngresar">INGRESAR</string>
+    <string name="bthGastos">GASTOS</string>
+    <string name="btnMovimientos">MOVIMIENTOS</string>
+    <string name="btnInicio">INICIO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtCantidad">Cantidad</string>
+    <string name="txtDescrip">Descripciòn</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="txttitulo">AGREGAR INGRESO</string>
+    <string name="FranIngresar">FrangmenIngresar</string>
+    <string name="txtCantidadGasto">Gasto</string>
+    <string name="txtDescriGastos">Descripcion del Gasto</string>
+    <string name="btnGuardarGasto">Guardar Gasto</string>
+</resources>
